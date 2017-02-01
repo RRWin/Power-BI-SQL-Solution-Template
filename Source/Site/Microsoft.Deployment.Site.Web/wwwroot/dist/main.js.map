@@ -1,0 +1,1 @@
+{"version":3,"sources":["dist/main.js","dist/main.ts"],"names":["configure","aurelia","use","standardConfiguration","start","then","setRoot","exports"],"mappings":"AAAA;;ACEA,SAAAA,SAAA,CAA0BC,OAA1B,EAA0C;AACtCA,YAAQC,GAAR,CACKC,qBADL;AAMAF,YAAQG,KAAR,GAAgBC,IAAhB,CAAqB;AAAA,eAAMJ,QAAQK,OAAR,EAAN;AAAA,KAArB;AACH;AAReC,QAAAP,SAAA,GAASA,SAAT","file":"main.js","sourceRoot":"/"}

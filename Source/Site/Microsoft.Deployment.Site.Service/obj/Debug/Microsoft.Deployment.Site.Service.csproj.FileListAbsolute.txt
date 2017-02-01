@@ -1,0 +1,2 @@
+D:\PBI-Solution-Template-POC\BusinessPlatformApps-master\Source\Site\Microsoft.Deployment.Site.Service\obj\Debug\Microsoft.Deployment.Site.Service.csproj.App.config
+D:\PBI-Solution-Template-POC\BusinessPlatformApps-master\Source\Site\Microsoft.Deployment.Site.Service\obj\Debug\Microsoft.Deployment.Site.Service.csprojResolveAssemblyReference.cache
